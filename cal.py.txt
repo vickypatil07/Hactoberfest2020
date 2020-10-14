@@ -1,0 +1,20 @@
+
+
+def add( ):
+#please take input from user
+#return addition of the two number 
+    
+def subtract(): 
+    #please take input from user
+    #return substraction of the two number 
+
+def multiply(): 
+    #please take input from user
+    #return multiplication of the two number 
+ 
+def divide(): 
+    #please take input from user
+    #return division of the two number 
+
+
+#complete the code  using if else statement for calculator
