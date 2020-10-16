@@ -9,7 +9,6 @@ def subtract():
     x=int(input("Enter your first number"))
     y=int(input("Enter your second number"))
     return(x-y)
-   
 
 def multiply(): 
     #please take input from user
